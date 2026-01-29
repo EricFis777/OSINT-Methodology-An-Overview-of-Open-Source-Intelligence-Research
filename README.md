@@ -63,3 +63,9 @@ Due-diligence, compliance, or risk-assessment professionals
 Journalists and investigators interested in methodological rigour
 Developers and data practitioners entering OSINT-adjacent work
 
+
+## Professional portfolio
+
+https://www.upwork.com/freelancers/ericfisher?p=2016820893204611072
+
+This repository focuses on methodology and approach. 
